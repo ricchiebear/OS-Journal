@@ -1,1 +1,1 @@
-### [week 1 - System Planning and Distribution Selection](week1.keep/Week1_Assessments.pdf) 
+### [week 1 - System Planning and Distribution Selection](week1/week1_Assessments.pdf) 
