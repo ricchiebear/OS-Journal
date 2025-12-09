@@ -4,4 +4,4 @@
 ### [week 4 - Initial System Configuration & Security Implementation](week4/week4_assessment.pdf)
 ### [week 5 - Advanced Security and Monitoring Infastructure](week5/week5_Assessment.pdf)
 ### [week 6 - Performance Evaluation and Analysis](week6/week6_Assessments.pdf)
-### [week 7 - Security Audit and System Evaluation](week7/week7_Assessments.pdf)
+### [week 7 - Security Audit and System Evaluation](week7/week7_Assesssments.pdf)
