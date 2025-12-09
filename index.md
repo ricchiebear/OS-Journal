@@ -5,4 +5,4 @@
 ### [week 5 - Advanced Security and Monitoring Infastructure](week5/week5_Assessment.pdf)
 ### [week 6 - Performance Evaluation and Analysis](week6/week6_Assessments.pdf)
 ### [week 7 - Security Audit and System Evaluation](week7/week7_Assesssments.pdf)
-### [week 7 - Journal Video](week7/Journal_video.mp4)
+### [week 7 - Journal Video](week7/week7 - Journal_video.mp4)
