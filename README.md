@@ -1,2 +1,2 @@
-# OS-Journal
+# Operating System - Journal
 Roehampton University Operating Systems Coursework
