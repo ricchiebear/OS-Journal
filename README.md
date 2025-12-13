@@ -1,4 +1,4 @@
-# Operating System - Journal
+### Richard Akole (RIC22599703)
 Roehampton University Operating Systems Coursework
-By: Richard Akole (RIC22599703)
+
 
